@@ -106,7 +106,7 @@
 
             function initSlides(){
                 if(slides.length === 0){
-                    slidesEl.innerHTML = '<div class="slide" style="display:flex; align-items:center; justify-content:center; height:220px; color:#999;">No review screenshots found. Add files named `images/review1.jpg`, `review2.jpg`, etc.</div>';
+                    slidesEl.innerHTML = '<div class="slide" style="display:flex; align-items:center; justify-content:center; height:220px; color:#999;">Please Refresh page to view comments and reviews from our Customers.</div>';
                     return;
                 }
 
